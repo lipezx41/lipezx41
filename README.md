@@ -1,6 +1,7 @@
 ## 👨‍💻 Felipe Vaz
 
-Seja Bem vindo ao meu perfil, Me chamo Felipe vaz tenho 20 anos e moro em Curitiba. Estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
+Bem-vindo ao meu perfil!
+Meu nome é Felipe Vaz, tenho 20 anos e moro em Curitiba. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
 
   </a> 
     <a href="https://github.com/lipezx41?tab=repositories&sort=stargazers">
